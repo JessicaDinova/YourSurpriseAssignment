@@ -1,5 +1,5 @@
-## IMPORTANT
-Make sure you have composer installed
+>**IMPORTANT**: Make sure you have composer installed<br> Download composer here https://getcomposer.org/download <br><br>
+>**IMPORTANT**: Make sure you have php-pdo extension<br> If you encounter pdo not found errors follow the instuction based on your OS https://www.php.net/manual/en/book.pdo.php 
 ## Step 1
 CD into the yoursuprise-api folder and paste these commands into your cmd
 ```sh
